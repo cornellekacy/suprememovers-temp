@@ -1,0 +1,19 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sun, 19 Mar 2017 22:40:06 at http://suprememoverss.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://suprememoverss.com/ -O1 "C:\My Web Sites\supreme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:42:23	Warning: 	Link suprememoverss.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:42:39	Error: 	"Not Found" (404) at link suprememoverss.com/road,html (from suprememoverss.com/)
+22:42:40	Error: 	"Not Found" (404) at link suprememoverss.com/service.html (from suprememoverss.com/)
+22:42:42	Error: 	"Not Found" (404) at link suprememoverss.com/ocean.html (from suprememoverss.com/)
+22:43:28	Error: 	"Not Found" (404) at link suprememoverss.com/05_services.html (from suprememoverss.com/services.html)
+22:43:28	Error: 	"Not Found" (404) at link suprememoverss.com/08_services-details.html (from suprememoverss.com/services.html)
+22:43:28	Error: 	"Not Found" (404) at link suprememoverss.com/smallpackage.html (from suprememoverss.com/services.html)
+22:43:28	Error: 	"Not Found" (404) at link suprememoverss.com/assets/loader/img/browser.png (from suprememoverss.com/assets/loader/css/loader.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 3 minutes 22 seconds : 152 links scanned, 144 files written (6110442 bytes overall) [4956870 bytes received at 24538 bytes/sec], 1952514 bytes transferred using HTTP compression in 85 files, ratio 36%, 11.6 requests per connection
+(7 errors, 1 warnings, 0 messages)

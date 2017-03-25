@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.suprememoverss.com	TRUE	/	FALSE	1999999999	__cfduid	dbaac1e9fe4d60e499ed9e2bef422b6cf1489988608
+
